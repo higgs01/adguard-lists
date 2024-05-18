@@ -87,3 +87,5 @@
 @@|tracking.dpd.de^$important
 @@|wa.me
 @@|www.wa.me
+@@|web.archive.org
+@@|archive.org
